@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Tharsanan1/React_Node_franework#readme",
   "dependencies": {
     "contentbinder": "^1.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "multer": "^1.4.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
